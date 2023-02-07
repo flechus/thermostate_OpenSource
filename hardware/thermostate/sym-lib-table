@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "1N5819HW-7-F")(type "KiCad")(uri "${KIPRJMOD}/external_elements/1N5819HW-7-F/1N5819HW-7-F.kicad_sym")(options "")(descr ""))
   (lib (name "LESD5D5.0CT1G")(type "KiCad")(uri "${KIPRJMOD}/external_elements/LESD5D5.0CT1G/LESD5D5.0CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "L8050QLT1G")(type "Legacy")(uri "${KIPRJMOD}/external_elements/L8050QLT1G/L8050QLT1G.lib")(options "")(descr ""))
 )

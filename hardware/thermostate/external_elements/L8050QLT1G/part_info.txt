@@ -1,0 +1,9 @@
+Manufacturer=Leshan Radio
+PartNumber=L8050QLT1G
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2020-10-07 14:41:21
+Downloaded=2023-02-07 20:30:45
+3D=Y
