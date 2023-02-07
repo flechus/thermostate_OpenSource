@@ -1,0 +1,3 @@
+[submodule "hardware/thermostate/kicad-libraries"]
+	path = hardware/thermostate/kicad-libraries
+	url = https://github.com/espressif/kicad-libraries
