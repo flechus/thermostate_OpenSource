@@ -79,7 +79,13 @@
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/a7d2f0ec-31f9-4cd0-9737-7f2bdda1453f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/27f560bc-d65b-42c0-8529-af395c65fde5"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/7d41752a-56b1-4a0f-a58f-7da9e82addda"
+      (reference "#PWR0116") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/b93db3b6-c04f-47c4-80c4-9cb44da7a42e"
       (reference "C1") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -105,11 +111,11 @@
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/a55251f0-b839-4e18-a0ce-2890cecd5be8"
       (reference "C8") (unit 1) (value "100uF/25V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/0826983f-cc04-40b2-9783-6f007776fc28"
-      (reference "C?") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/ddd42355-1fba-4de2-97d4-339d5685bbe0"
-      (reference "C?") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C9") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/0826983f-cc04-40b2-9783-6f007776fc28"
+      (reference "C10") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/f8d0b4be-93d3-4c85-bac5-b6c3499e3e36"
       (reference "D1") (unit 1) (value "LESD5D5.0CT1G") (footprint "Diode_SMD:D_SOD-523")
@@ -159,23 +165,29 @@
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/1d02748a-75c0-4d31-bb7f-f339907e5e9f"
       (reference "R7") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/e7af8b0b-84e5-47fa-9c8e-8c3b94fa1e4f"
+      (reference "R8") (unit 1) (value "4K7(20%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/a58dbba4-79ec-4ab6-941d-b377269aee42"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/40cd912a-a992-453d-9f65-d0df5dbdc59f"
       (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
-    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/b005dd31-1a68-49e4-9dd9-d098ce681aca"
-      (reference "SW?") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/d7c052bb-20e9-4e93-84dc-41e98641ff0c"
-      (reference "SW?") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/b005dd31-1a68-49e4-9dd9-d098ce681aca"
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/14f9910c-c5dd-4e87-8981-8d7b9ad63bfc"
       (reference "U1") (unit 1) (value "ESP32-S3-WROOM-1") (footprint "Espressif:ESP32-S3-WROOM-1")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/57355bdd-10f5-489a-be7d-cf41531e5af8"
       (reference "U2") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/48a411ee-81e9-4858-881f-8ed9c67ec545"
+      (reference "U3") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
   )
 )
