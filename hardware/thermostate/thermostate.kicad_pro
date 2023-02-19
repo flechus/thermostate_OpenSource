@@ -422,6 +422,10 @@
     [
       "9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1",
       "ExternalPush"
+    ],
+    [
+      "1f4f2a57-6ec8-4876-9c56-45d47cafb512",
+      "SevenSeg"
     ]
   ],
   "text_variables": {}

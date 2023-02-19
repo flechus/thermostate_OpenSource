@@ -8,6 +8,18 @@
   )
 
 
+  (sheet (at 193.04 25.4) (size 73.66 49.53) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1f4f2a57-6ec8-4876-9c56-45d47cafb512)
+    (property "Sheet name" "SevenSeg" (id 0) (at 193.04 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "SevenSeg.kicad_sch" (id 1) (at 193.04 75.5146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 114.3 25.4) (size 73.66 49.53) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -36,6 +48,7 @@
     (path "/" (page "1"))
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26" (page "2"))
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1" (page "4"))
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512" (page "5"))
   )
 
   (symbol_instances
@@ -86,6 +99,18 @@
     )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/7d41752a-56b1-4a0f-a58f-7da9e82addda"
       (reference "#PWR0116") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/a457b8b5-c765-478b-a736-98499909655a"
+      (reference "#PWR0117") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/6b3b12ec-18a9-4029-8fa2-4558e5746cf5"
+      (reference "#PWR0118") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/d2cee3ce-4dde-4174-9a07-93a3c5bcdd19"
+      (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/a6b49f93-c7ab-4a94-8885-388940b6fa3e"
+      (reference "#PWR0120") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/b93db3b6-c04f-47c4-80c4-9cb44da7a42e"
       (reference "C1") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -144,6 +169,12 @@
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/74656862-ff2f-4c7a-9d23-d87968abf6d2"
       (reference "P1") (unit 1) (value "USB_C_Plug_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
     )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/a78b6c46-2a24-48bd-94a0-4db9275c74a3"
+      (reference "Q1") (unit 1) (value "BC847") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/257ecb1c-1871-45fe-8df0-d6099ae21d6d"
+      (reference "Q2") (unit 1) (value "BC847") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/e5d96fc1-b01b-4da5-8fce-8b078dcadf3a"
       (reference "R1") (unit 1) (value "10k(1%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -168,6 +199,12 @@
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/e7af8b0b-84e5-47fa-9c8e-8c3b94fa1e4f"
       (reference "R8") (unit 1) (value "4K7(20%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/09e50774-b01d-4183-a359-4429fd7a9878"
+      (reference "R9") (unit 1) (value "10k (1%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/d10a00ff-318a-4faf-a23d-5369ca1ec454"
+      (reference "R10") (unit 1) (value "10k (1%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/a58dbba4-79ec-4ab6-941d-b377269aee42"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
@@ -188,6 +225,12 @@
     )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/48a411ee-81e9-4858-881f-8ed9c67ec545"
       (reference "U3") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/2b96b59a-293c-4c5a-b2c8-12a31267ad41"
+      (reference "U5") (unit 1) (value "ELD-426SYGWA") (footprint "Display_7Segment:ELD_426XXXX")
+    )
+    (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/49949091-4c8a-406d-8013-52e13817166d"
+      (reference "U6") (unit 1) (value "ULN2803A") (footprint "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm")
     )
   )
 )
