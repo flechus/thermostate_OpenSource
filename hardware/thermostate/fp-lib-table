@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "RK09K1130A5R")(type "KiCad")(uri "${KIPRJMOD}/external_elements/RK09K1130A5R")(options "")(descr ""))
+  (lib (name "SRD-03VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/external_elements/SRD-03VDC-SL-C")(options "")(descr ""))
 )

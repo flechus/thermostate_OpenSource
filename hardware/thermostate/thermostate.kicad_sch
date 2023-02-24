@@ -112,6 +112,27 @@
     (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/a6b49f93-c7ab-4a94-8885-388940b6fa3e"
       (reference "#PWR0120") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/25ed6489-443b-4234-a720-d854daf559c3"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/e04a63e9-dc66-4184-9987-6d3e25421947"
+      (reference "#PWR0122") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/18205541-59de-4d7e-82b5-3797b243a372"
+      (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/6d41c8c4-637a-4c43-9f46-2648f88d9e56"
+      (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/bc0fe5dd-ce89-41aa-859f-654fbe7a43e3"
+      (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/23dbabac-285b-4079-aa7a-c2a7d4939cce"
+      (reference "#PWR0126") (unit 1) (value "AC") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/e410e8e8-948a-45e9-b50c-1a5ee4f25a4a"
+      (reference "#PWR0127") (unit 1) (value "GND1") (footprint "")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/b93db3b6-c04f-47c4-80c4-9cb44da7a42e"
       (reference "C1") (unit 1) (value "0.1uF/50V(20%)") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -166,6 +187,15 @@
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/62039eba-1d58-4328-be15-34e630bc81a5"
       (reference "IC2") (unit 1) (value "L8050QLT1G") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/5993f690-97e5-420d-b185-08c217a31dbd"
+      (reference "J1") (unit 1) (value "Conn_01x02_Male") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360291_1x01_Horizontal_ScrewM3.0_Boxed")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/648b6aaf-8cbe-4b19-98ff-44cea95814c8"
+      (reference "J2") (unit 1) (value "Conn_01x02_Male") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_360291_1x01_Horizontal_ScrewM3.0_Boxed")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/dc786d1b-9ec0-4525-ac9e-5160e523e617"
+      (reference "K1") (unit 1) (value "SRD-03VDC-SL-C") (footprint "SRD-03VDC-SL-C:SRD03VDCSLC")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/74656862-ff2f-4c7a-9d23-d87968abf6d2"
       (reference "P1") (unit 1) (value "USB_C_Plug_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
     )
@@ -204,6 +234,9 @@
     )
     (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/d10a00ff-318a-4faf-a23d-5369ca1ec454"
       (reference "R10") (unit 1) (value "10k (1%)") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/b6d71fee-af30-41ed-9872-e429da8b4bac"
+      (reference "R11") (unit 1) (value "RK09K1130A5R") (footprint "RK09K1130A5R:RK09K1130A5R")
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/a58dbba4-79ec-4ab6-941d-b377269aee42"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
