@@ -5,4 +5,6 @@
   (lib (name "RK09K1130A5R")(type "Legacy")(uri "${KIPRJMOD}/external_elements/RK09K1130A5R/RK09K1130A5R.lib")(options "")(descr ""))
   (lib (name "SRD-03VDC-SL-C")(type "Legacy")(uri "${KIPRJMOD}/external_elements/SRD-03VDC-SL-C/SRD-03VDC-SL-C.lib")(options "")(descr ""))
   (lib (name "BC2AAAPC")(type "KiCad")(uri "${KIPRJMOD}/external_elements/BC2AAAPC/BC2AAAPC.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502TRPBF")(type "KiCad")(uri "${KIPRJMOD}/external_elements/IRLML2502TRPBF/IRLML2502TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "1929517")(type "KiCad")(uri "${KIPRJMOD}/external_elements/phoenix_terminalBlock/1929517.kicad_sym")(options "")(descr ""))
 )

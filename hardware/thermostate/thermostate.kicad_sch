@@ -136,6 +136,12 @@
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/3dca5713-595c-491c-96de-ac31cd3eafb4"
       (reference "#PWR0128") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/50e6f291-b107-45be-89a7-203876e93c22"
+      (reference "#PWR0129") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/d68ffd3a-db31-460d-a9b4-70623211164f"
+      (reference "#PWR0130") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/3ec7a283-b402-449e-95dd-eb455497d74d"
       (reference "BT1") (unit 1) (value "BC2AAAPC") (footprint "BC2AAAPC:BAT_BC2AAAPC")
     )
@@ -187,6 +193,9 @@
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/bcaab6fe-500d-4ebe-80b8-1ae37f648229"
       (reference "D6") (unit 1) (value "RED LED ") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/02d26add-b329-46ce-a1a3-2537463a673f"
+      (reference "D7") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/2e446737-74e5-43ee-a400-3e52e2ab5641"
       (reference "IC1") (unit 1) (value "L8050QLT1G") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
@@ -207,6 +216,9 @@
     )
     (path "/dd42c31c-5aca-4c52-93b8-ef7d4a29cc26/74656862-ff2f-4c7a-9d23-d87968abf6d2"
       (reference "P1") (unit 1) (value "USB_C_Plug_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/56ac263d-35a9-4d15-b209-1c0e2214c725"
+      (reference "P2") (unit 1) (value "1929517") (footprint "phoenix_terminalBlock:PHOENIX_1929517")
     )
     (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/a78b6c46-2a24-48bd-94a0-4db9275c74a3"
       (reference "Q1") (unit 1) (value "BC847") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -267,6 +279,9 @@
     )
     (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/48a411ee-81e9-4858-881f-8ed9c67ec545"
       (reference "U3") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/9daf8fee-cd8e-47ee-84c9-ffcb9f8b22f1/1d9aa0bb-0284-41c0-a9d7-a0b193dc082b"
+      (reference "U4") (unit 1) (value "IRLML2502TRPBF") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/1f4f2a57-6ec8-4876-9c56-45d47cafb512/2b96b59a-293c-4c5a-b2c8-12a31267ad41"
       (reference "U5") (unit 1) (value "ELD-426SYGWA") (footprint "Display_7Segment:ELD_426XXXX")

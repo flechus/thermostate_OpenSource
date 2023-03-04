@@ -3,4 +3,5 @@
   (lib (name "RK09K1130A5R")(type "KiCad")(uri "${KIPRJMOD}/external_elements/RK09K1130A5R")(options "")(descr ""))
   (lib (name "SRD-03VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/external_elements/SRD-03VDC-SL-C")(options "")(descr ""))
   (lib (name "BC2AAAPC")(type "KiCad")(uri "${KIPRJMOD}/external_elements/BC2AAAPC")(options "")(descr ""))
+  (lib (name "phoenix_terminalBlock")(type "KiCad")(uri "${KIPRJMOD}/external_elements/phoenix_terminalBlock")(options "")(descr ""))
 )
