@@ -1,0 +1,60 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "1929517" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "P" (id 0) (at -2.5486 5.09718 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "1929517" (id 1) (at -2.54464 -7.63392 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "PHOENIX_1929517" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Phoenix Contact" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "1929517_0_0"
+      (polyline
+        (pts (xy -2.54 2.54) (xy 0.0 2.54)) (stroke (width 0.762))
+      )
+      (polyline
+        (pts (xy -2.54 -2.54) (xy 0.0 -2.54)) (stroke (width 0.762))
+      )
+      (rectangle (start -2.54 -5.08) (end 5.08 5.08)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -7.62 2.54 0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1.1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 2.54 0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1.2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2.1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2.2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
